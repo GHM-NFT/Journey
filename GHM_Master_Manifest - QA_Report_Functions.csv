@@ -1,0 +1,15 @@
+function,status
+backupSpreadsheet,present
+fixCommonNamesGeneric,present
+ensureHeaderAliases,present
+populateTitleDisplayAndShort_Generic,present
+forceOverwriteTitleEn_WithProtectionHandling_Generic,present
+forceRewriteAltTextEn_Targeted_Generic,present
+applyDataValidationRules_Generic,present
+addHiddenOpsFlagAndHideCols_Generic,present
+runSmokeTest_Generic,present
+runRefreshAutosSandbox,present
+runRefreshAutosForSheet,present
+refreshActiveTab,present
+onOpen,present
+checkExpectedFunctions,present

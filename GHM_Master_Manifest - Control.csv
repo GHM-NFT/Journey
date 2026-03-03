@@ -1,0 +1,13 @@
+Setting,Value,Notes
+project_name,GHM – Mythic Icons,Display only
+default_locale,en,JSON language (on-chain)
+secondary_languages,zh-Hans,"Secondaries: zh-Hans,el,ja"
+onchain_lang,en,On-chain = English (web localized)
+external_url_base,https://ghm.art/nft,Base for external_url
+operator_filter_default,on,on/off
+operator_policy_note,Respect creator royalties; allow major marketplaces.,Short note
+freeze_after_days,7,QA window (days)
+standard_default,721,721/1155
+contract_factory,OpenSea,Manifold/Zora/OpenSea/Custom
+license_url_default,,Default license URL
+background_color_default,,HEX without # (e.g. FFFFFF)
