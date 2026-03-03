@@ -1,0 +1,16 @@
+{
+  "name": "Hercules \u2014 Relic No.1",
+  "description": "",
+  "image": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Series",
+      "value": "Relics"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Relics"
+    }
+  ]
+}

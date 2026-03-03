@@ -1,0 +1,12 @@
+{
+  "name": "<<<TOKEN_NAME>>>",
+  "description": "<<<FULL_DESCRIPTION>>>",
+  "image": "ipfs://<<<CID_3500_PNG>>>",
+  "external_url": "<<<PROJECT_OR_ITEM_URL>>>",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "<<<Mythic Icon|Signature Editions|Companion Pieces|Limited Edition Prints|Relics>>>"
+    }
+  ]
+}

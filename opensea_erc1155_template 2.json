@@ -1,0 +1,28 @@
+{
+  "name": "Greek \u2013 Athena \u2013 Aegis Gaze \u2013 Signature (Edition)",
+  "description": "Gods Heroes Myths \u2014 Signature edition print.",
+  "image": "ipfs://<CID>/images/greek-athena-aegis-gaze-signature-0001.jpg",
+  "external_url": "https://godsheroesmyths.com",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Deity/Myth",
+      "value": "Athena"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Signature"
+    },
+    {
+      "trait_type": "Edition Size",
+      "value": "25"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    }
+  ]
+}

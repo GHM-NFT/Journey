@@ -1,0 +1,71 @@
+{
+  "Mythic Icon": {
+    "standard": "ERC-721",
+    "edition_total": 1,
+    "media_type": "Image",
+    "chain": "Ethereum",
+    "currency": "ETH",
+    "price_native": 2.5,
+    "unlockables_list": [
+      "NFT",
+      "NFT Video",
+      "NFT 10K",
+      "VR Meta Gallery entry",
+      "Certificate"
+    ]
+  },
+  "Signature Editions": {
+    "standard": "ERC-721",
+    "edition_total": 25,
+    "media_type": "Image",
+    "chain": "Polygon",
+    "currency": "ETH",
+    "price_native": 0.3,
+    "unlockables_list": [
+      "NFT",
+      "NFT Video",
+      "NFT 8K",
+      "Certificate"
+    ]
+  },
+  "Companion Pieces": {
+    "standard": "ERC-721",
+    "edition_total": 12,
+    "media_type": "Image",
+    "chain": "Polygon",
+    "currency": "ETH",
+    "price_native": 0.12,
+    "unlockables_list": [
+      "NFT",
+      "NFT 6K",
+      "Certificate"
+    ]
+  },
+  "Limited Edition Prints": {
+    "standard": "ERC-1155",
+    "edition_total": 50,
+    "media_type": "Image",
+    "chain": "Polygon",
+    "currency": "ETH",
+    "price_native": 0.06,
+    "unlockables_list": [
+      "NFT",
+      "Art Print Token",
+      "NFT 10K",
+      "Certificate"
+    ]
+  },
+  "Relics": {
+    "standard": "ERC-1155",
+    "edition_total": 100,
+    "media_type": "Video",
+    "chain": "Polygon",
+    "currency": "ETH",
+    "price_native": 0.02,
+    "unlockables_list": [
+      "NFT",
+      "NFT Video",
+      "Certificate"
+    ]
+  }
+}

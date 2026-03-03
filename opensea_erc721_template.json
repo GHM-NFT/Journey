@@ -1,0 +1,32 @@
+{
+  "name": "Greek \u2013 Athena \u2013 Aegis Gaze \u2013 Grail Masterpiece \u2013 1/1",
+  "description": "From Gods Heroes Myths. Top tier piece (grail/masterpiece).",
+  "image": "ipfs://<CID>/images/greek-athena-aegis-gaze-grail-masterpiece-0001.jpg",
+  "external_url": "https://godsheroesmyths.com",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "Greek"
+    },
+    {
+      "trait_type": "Deity/Myth",
+      "value": "Athena"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Grail Masterpiece"
+    },
+    {
+      "trait_type": "Edition Size",
+      "value": "1"
+    },
+    {
+      "trait_type": "Format",
+      "value": "Round Canvas"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    }
+  ]
+}

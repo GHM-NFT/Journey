@@ -1,0 +1,26 @@
+{
+  "manifest_xlsx": "GHM_Master_Manifest.xlsx",
+  "manifest_sheet_name": "GHM_Master_Manifest",
+  "output_xlsx": "GHM_Master_Manifest_UPDATED.xlsx",
+
+  "scan_csv": "media_scan.csv",
+
+  "key_columns": {
+    "still/poster": "still/poster",
+    "still/poster": "still/poster"
+  },
+
+  "columns_to_fill": {
+    "image_mime": "image_mime",
+    "image_bytes": "image_bytes",
+    "animation_mime": "animation_mime",
+    "animation_bytes": "animation_bytes"
+  },
+
+  "fallback_media_column": "",
+  "infer_kind_by_name": true,
+  "case_sensitive_match": false,
+
+  "image_hints": ["poster", "cover", "thumb", ".jpg", ".jpeg", ".png", ".webp"],
+  "animation_hints": [".mp4", ".mov", ".webm", ".glb", ".gltf", ".html"]
+}

@@ -1,0 +1,69 @@
+{
+  "name": "<PANTHEON> \u2013 <DEITY> \u2013 <TITLE> \u2013 Relic \u2013 #<ED>/<ED_TOTAL>",
+  "description": "Relic video collectible. Poster in `image`, video in `animation_url`. Collector License applies. Includes tier unlockables.",
+  "image": "ipfs://<CID_STILLS>/<POSTER_FILENAME>.jpg",
+  "animation_url": "ipfs://<CID_VIDEO>/<VIDEO_FILENAME>.mp4",
+  "external_url": "https://godsheroesmyths.com",
+  "attributes": [
+    {
+      "trait_type": "Pantheon",
+      "value": "<PANTHEON>"
+    },
+    {
+      "trait_type": "Deity/Myth",
+      "value": "<DEITY>"
+    },
+    {
+      "trait_type": "Mythic Group",
+      "value": "<MYTHIC_GROUP>"
+    },
+    {
+      "trait_type": "Being Class",
+      "value": "<BEING_CLASS>"
+    },
+    {
+      "trait_type": "Domain",
+      "value": "<DOMAIN>"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "Relics"
+    },
+    {
+      "trait_type": "Media",
+      "value": "Video"
+    },
+    {
+      "trait_type": "Resolution",
+      "value": "<RESOLUTION>"
+    },
+    {
+      "trait_type": "FPS",
+      "value": "<FPS>"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "<DURATION_S>s"
+    },
+    {
+      "trait_type": "Loop",
+      "value": "true"
+    },
+    {
+      "trait_type": "Audio",
+      "value": "false"
+    },
+    {
+      "trait_type": "Era/Tradition",
+      "value": "<ERA>"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025"
+    },
+    {
+      "trait_type": "Edition Size",
+      "value": "<ED_TOTAL>"
+    }
+  ]
+}
