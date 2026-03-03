@@ -1,0 +1,8 @@
+Asset,Size / Notes
+Preview (square),1600×1600 (2048 for heroes)
+Preview (16:9),1920×1080 (1600×900 alt)
+Preview (3:4),1500×2000 (1200×1600 alt)
+Preview (9:16),1080×1920
+Thumbnail (square),512×512
+Video Poster,"match preview size (e.g., 1600 sq or 1920×1080)"
+Video Master,"1080p30 or 4K30, H.264 + AAC, 6–20s, loop if applicable"

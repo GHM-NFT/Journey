@@ -1,0 +1,8 @@
+,Status,Task
+Naming — Photoshop master slug,In Progress,Set at first Save As of master
+Lightroom color grade,Done/Varies,Do not rename on import
+Photoshop finish & export preview/thumb/poster,Pending,Use actions or JSX script
+Metadata JSON — fill attributes & CIDs,Pending,"721 for unique, 1155 for editions"
+IPFS — pin image/video/json; log CIDs,Pending,Record in 05_IPFS/CIDs
+Unlockables — fill per token,Pending,Match tier unlockables
+List on OpenSea,Pending,Lazy mint where useful; freeze metadata

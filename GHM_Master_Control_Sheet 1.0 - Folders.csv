@@ -1,0 +1,12 @@
+Folder,Purpose
+00_ADMIN,"Docs, license, checksums, presets, actions"
+01_ASSETS/IMAGES/MASTERS,Photoshop masters (.tif/.psd) — canonical slug
+01_ASSETS/IMAGES/PREVIEWS,"JPG previews (e.g., 1600 or 2048 sq)"
+01_ASSETS/IMAGES/THUMBNAILS,JPG thumbs (512×512 or aspect)
+01_ASSETS/VIDEO/MASTERS,Relic video masters (mp4 h264+aac)
+01_ASSETS/VIDEO/PREVIEWS,"Light preview videos (e.g., 1080p30)"
+01_ASSETS/VIDEO/STILLS,Video posters (JPG) used in metadata 'image'
+02_METADATA/ERC721/json,One JSON per 721 token
+02_METADATA/ERC1155/json,One JSON per 1155 token
+05_IPFS/CIDs,Record pinned CIDs for images/video/json
+06_EXPORT/OpenSea,Ready-to-upload bundles

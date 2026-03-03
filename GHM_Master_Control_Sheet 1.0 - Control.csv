@@ -1,0 +1,16 @@
+Setting,Value,Notes
+project_name,GHM – Mythic Icons,Display only
+default_locale,en,On-chain JSON language (recommended: en)
+secondary_languages,zh-Hans,"Comma-separated: e.g. zh-Hans,el,ja"
+onchain_lang,en,Keep on-chain in English; localize the web view
+external_url_base,https://ghm.art/nft,Base for external_url; slug will append
+operator_filter_default,on,on/off (listings compatibility stance)
+operator_policy_note,Respect creator royalties; allow major marketplaces.,Short policy note
+freeze_after_days,7,QA window (days) before freezing metadata
+standard_default,721,721 for 1/1; 1155 for editions
+edition_size_default,1,Optional default for editions
+contract_factory,OpenSea,"Manifold, Zora, OpenSea, Custom"
+collection_address,,Canonical collection address (per series if needed)
+collection_slug,,Platform slug (for URLs)
+license_url_default,,Default license link (applied if blank)
+background_color_default,,HEX (no #). e.g. FFFFFF

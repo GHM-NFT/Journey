@@ -1,0 +1,2 @@
+standard,contract_factory,contract_address,chain,operator_filter,royalty_bps,royalty_recipient,license_type,license_url,terms_url,physical_terms_url,freeze_policy,freeze_date,reveal_mode,reveal_date,primary_mint_platform,marketplace_targets,canonical_domain_or_ENS,meta_title,meta_description,og_image,target_fiat_price,est_gas_mint,est_gas_batch
+721,Opensea,,ETH,on,,,,,,,,,,,,,,,,,,,

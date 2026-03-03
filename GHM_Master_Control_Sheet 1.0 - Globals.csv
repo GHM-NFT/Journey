@@ -1,0 +1,5 @@
+key,value,notes
+default_locale,en-GB,Default locale for display when not otherwise specified.
+secondary_locale,zh-Hans (or el/ja per collection),"Set per collection: e.g., zh-Hans for Chinese, el for Greek, ja for Japanese."
+onchain_language,en,JSON name/description on-chain in English per your decision.
+site_localization,true,Your external_url token page localizes by browser/wallet language.
